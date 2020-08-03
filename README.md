@@ -28,7 +28,7 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://cpng.pikpng.com/pngl/s/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png" />
+<img align="left" alt="MySQL" width="26px" src="https://png2.cleanpng.com/sh/c3658b250829e94f5a07b6bf18956c37/L0KzQYm3V8E2N6h1gpH0aYP2gLBuTfpifpIyfNdBZXzygL7sjwQuc5p5ReV4ZoT6ccPsTfRmfpZxhAJ2ZX73PbzwlL1kd551ReJ7b3f1cb70if5oNZ1mhtlAYXfoPbrqjB4uPZM5eqtsYkK1QoLoVckvPGI7SqoCM0C0RYS4VsgyQWg1SaUENz7zfri=/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb2221a59.4162873015316819701397.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
