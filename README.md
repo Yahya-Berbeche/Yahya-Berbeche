@@ -45,7 +45,7 @@
 <img align="left" alt="HTML5" width="26px" src="http://3.bp.blogspot.com/-LbJCFME6Ya8/VAwzHuhqoZI/AAAAAAAAEZQ/CuUGGiMwat8/s1600/spring-boot-project-logo.png" />
 
 
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Maven_logo.svg/340px-Maven_logo.svg.png" />
+<img align="left" alt="HTML5" width="26px" src="https://university.itametis.com/website/files/images/logos/apache-maven.png" />
 
 
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png" />
