@@ -62,8 +62,7 @@
 <img align="left" alt="HTML5" width="80px" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" />
 
 <img align="left" alt="HTML5" width="34px" src="https://miro.medium.com/max/400/1*Sl9BIAHildVrIeusopMYSg.png" />
-<img align="left" alt="HTML5" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/1280px-Apache-Ant-logo.svg.png
-" />
+<img align="left" alt="HTML5" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/1280px-Apache-Ant-logo.svg.png" />
 
 
 <br />
