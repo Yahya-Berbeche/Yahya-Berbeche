@@ -55,7 +55,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/348px-Jenkins_logo.svg.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" />
 <br />
 <br />
 
