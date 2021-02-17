@@ -51,13 +51,14 @@
 <img align="left" alt="HTML5" width="40px" src="https://career.guru99.com/wp-content/uploads/2014/12/LogoJSF1.png" />
 
 <img align="left" alt="HTML5" width="40px" src="https://www.computing.co.uk/api/v1/wps/c4fcbcd/2eac5222-4042-4d1b-abd0-6e340795a18c/3/Struts-370x229.jpg" />
+<br/><br/><br/>
 <img align="left" alt="HTML5" width="40px" src="https://university.itametis.com/website/files/images/logos/apache-maven.png" />
 
 
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/348px-Jenkins_logo.svg.png" />
-<br/><br/><br/>
+
 <img align="left" alt="HTML5" width="80px" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" />
 
 <img align="left" alt="HTML5" width="34px" src="https://miro.medium.com/max/400/1*Sl9BIAHildVrIeusopMYSg.png" />
