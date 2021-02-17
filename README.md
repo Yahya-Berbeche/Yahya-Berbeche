@@ -50,8 +50,7 @@
 
 <img align="left" alt="HTML5" width="40px" src="https://career.guru99.com/wp-content/uploads/2014/12/LogoJSF1.png" />
 
-<img align="left" alt="HTML5" width="40px" src="https://www.computing.co.uk/api/v1/wps/c4fcbcd/2eac5222-4042-4d1b-abd0-6e340795a18c/3/Struts-370x229.jpg
-" />
+<img align="left" alt="HTML5" width="40px" src="https://www.computing.co.uk/api/v1/wps/c4fcbcd/2eac5222-4042-4d1b-abd0-6e340795a18c/3/Struts-370x229.jpg" />
 <img align="left" alt="HTML5" width="40px" src="https://university.itametis.com/website/files/images/logos/apache-maven.png" />
 
 
