@@ -10,7 +10,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="YahyaGeek | Gmail" width="22px" src="https://image.flaticon.com/icons/svg/60/60543.svg" />][gmail]
+[<img align="left" alt="YahyaGeek | Gmail" width="22px" src="https://www.svgrepo.com/show/24973/gmail.svg" />][gmail]
 
 [<img align="left" alt="YahyaGeek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
