@@ -1,11 +1,19 @@
-### Hi there, I'm Yahya - Berbeche [YahyaBerbeche] 👋
+### Hi there, I'm Yahya - Berbeche [Yahya-Berbeche] 👋
 
-## I'm a Software Engineer!
+I always try to make the difference in everything I do, and that has helped me gain a deep knowledge and experience of various technologies and architectures as well as gain the ability to know what is missing,and fixing it quickly.
+
+I Think that gathering good information is the best way to make everything work Good, and sharing it efficiently and reliably will make things work perfect.
+
+I have build a various types of applications with different aspects using different technologies, I am actually interested in web application development.
+
+My technical knowledge covers frontend and backend engineering, business intelligence, cloud computing and I am actually ready for adopting new challenges and experiences especially on distributed and decentralized systems.
+
+## I'm a Software Engineer @ SQLI DIGITAL EXPERIENCE
 - 🔭 I’m currently working on a Backend & FrontEnd Applications [Fullstack]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 💪
 - 👯 I’m looking to collaborate with other project developpers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Contribute more to Open Source and international projects
+- ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
 
