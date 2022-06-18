@@ -31,15 +31,8 @@ My technical knowledge covers frontend and backend engineering, business intelli
 
 <summary>:zap: Github's Stats </summary>
 
-<table>
-  <thead>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya-Berbeche&theme=default"></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=Yahya-Berbeche&show_icons=true" alt="Yahya Berbeche's Top Langs" /></th>
-    <th>
-    [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagmar&langs_count=5&theme=tokyonight)]()
-    </th>
-  </thead>
-</table>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Yahya-Berbeche&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya-Berbeche&langs_count=5&theme=tokyonight)]()
 
 ![Yahya-Berbeche](https://komarev.com/ghpvc/?username=Yahya-Berbeche)
 
