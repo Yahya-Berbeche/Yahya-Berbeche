@@ -12,7 +12,7 @@ My technical knowledge covers frontend and backend engineering, business intelli
 - 🔭 I’m currently working on a Backend & FrontEnd Applications [Fullstack]!
 - 🌱 I’m currently learning everything 💪
 - 👯 I’m looking to collaborate with other project developpers
-- 🥅 2022 Goals: Contribute more to Open Source and international projects
+- 🥅 2025 Goals: Contribute more to Open Source and international projects
 - ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
